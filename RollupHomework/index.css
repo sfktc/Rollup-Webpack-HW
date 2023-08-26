@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+    padding: 0;
+    margin:  0;
+}
+.jsImg {
+    width: 200px;
+    height: 200px;
+}
